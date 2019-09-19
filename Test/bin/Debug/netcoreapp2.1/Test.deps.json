@@ -8,6 +8,7 @@
     ".NETCoreApp,Version=v2.1": {
       "Test/1.0.0": {
         "dependencies": {
+          "Microsoft.CodeCoverage": "16.2.0",
           "Microsoft.Extensions.Configuration": "2.2.0",
           "Microsoft.Extensions.Configuration.FileExtensions": "2.2.0",
           "Microsoft.Extensions.Configuration.Json": "2.2.0",

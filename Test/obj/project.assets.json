@@ -5859,7 +5859,7 @@
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
-    "version": "62.0.0",
+    "version": "12.0.0",
     "restore": {
       "projectUniqueName": "C:\\workspace\\TestDotNet2\\Test\\Test.csproj",
       "projectName": "Test",

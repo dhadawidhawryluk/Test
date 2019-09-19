@@ -6,7 +6,7 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v2.1": {
-      "Test/1.0.0": {
+      "Test/62": {
         "dependencies": {
           "Microsoft.CodeCoverage": "16.2.0",
           "Microsoft.Extensions.Configuration": "2.2.0",
@@ -1090,7 +1090,7 @@
     }
   },
   "libraries": {
-    "Test/1.0.0": {
+    "Test/62": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -42,6 +42,8 @@ namespace Tests
 
             driver.Navigate().GoToUrl("https://google.com");
             driver.FindElement(By.Name("q")).SendKeys("BrowserStack");
+            driver.FindElement(By.Name("btnK")).Click();
+            driver.Quit();
         }
     }
 }

@@ -5855,23 +5855,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\WINDOWS\\system32\\config\\systemprofile\\.nuget\\packages\\": {},
+    "C:\\Users\\d_hawryluk\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
-    "version": "12.0.0",
+    "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\workspace\\TestDotNet2\\Test\\Test.csproj",
+      "projectUniqueName": "C:\\Jenkins\\workspace\\TestDotNet2\\Test\\Test.csproj",
       "projectName": "Test",
-      "projectPath": "C:\\workspace\\TestDotNet2\\Test\\Test.csproj",
-      "packagesPath": "C:\\WINDOWS\\system32\\config\\systemprofile\\.nuget\\packages\\",
-      "outputPath": "C:\\workspace\\TestDotNet2\\Test\\obj\\",
+      "projectPath": "C:\\Jenkins\\workspace\\TestDotNet2\\Test\\Test.csproj",
+      "packagesPath": "C:\\Users\\d_hawryluk\\.nuget\\packages\\",
+      "outputPath": "C:\\Jenkins\\workspace\\TestDotNet2\\Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\WINDOWS\\system32\\config\\systemprofile\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\d_hawryluk\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
